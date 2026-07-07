@@ -1,0 +1,6 @@
+{
+  "name": "Siaga Banjir Gajah Wong",
+  "description": "Platform terpadu pusat informasi siaga banjir, edukasi mitigasi, dan monitoring ketinggian air Sungai Gajah Wong Yogyakarta.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
