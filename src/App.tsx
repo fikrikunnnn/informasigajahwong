@@ -118,7 +118,7 @@ const ASSEMBLY_POINTS = [
 ];
 
 export default function App() {
-  const MONITORING_URL = 'http://8.215.12.27:3000/';
+  const MONITORING_URL = 'https://banjirrt52.vercel.app/';
 
   // Mobile Nav drawer state
   const [isNavOpen, setIsNavOpen] = useState(false);
